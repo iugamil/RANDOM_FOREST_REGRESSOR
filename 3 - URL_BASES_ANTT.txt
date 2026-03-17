@@ -2,3 +2,7 @@ TU = Toneladas
 TKU = Toneladas por km/útil
 
 Fonte dos dados ANTT: https://dados.antt.gov.br/
+
+Fonte CNT investimentos na malha: https://anuariodotransporte.cnt.org.br/2022/Ferroviario/2-7-2-/Aspectos-econ%C3%B4mico-financeiros
+
+Fonte CNT força de trabalho: https://anuariodotransporte.cnt.org.br/2022/Ferroviario/2-2-1-/Estrutura-das-empresas
